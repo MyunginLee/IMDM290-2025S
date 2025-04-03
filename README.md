@@ -9,3 +9,5 @@
 
 ![Untitled video - Made with Clipchamp (8)](https://github.com/user-attachments/assets/f862236a-a226-4e8f-8bfd-47c7161032da)
 
+Clone this repository and open the project from disk through the Unity Hub.
+
